@@ -6,9 +6,9 @@ export default function Home(){
     <>
       <h1> Welcome to Internet World...</h1>
       <ul>
-        <li><NavLink to='/Dictionary'>Dictionary</NavLink></li>
-        <li><NavLink to='/Community'>Community</NavLink></li>
-        <li><NavLink to='/Games'>Games</NavLink></li>
+        <li><NavLink to='./Dictionary'>Dictionary</NavLink></li>
+        <li><NavLink to='./Community'>Community</NavLink></li>
+        <li><NavLink to='./Games'>Games</NavLink></li>
       </ul>
     </>
   )
