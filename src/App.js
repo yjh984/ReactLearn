@@ -14,8 +14,8 @@ import {
 
 export default function App() {
   return (
-    <Router basename={process.evn.PUBLIC_URL}>
-    {/* <Router> */}
+    // <Router basename={process.evn.PUBLIC_URL}>
+    <Router>
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/Dictionary' element={<Dictionary/>} />
