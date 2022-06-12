@@ -10,21 +10,28 @@ import {
   Route
 } from "react-router-dom";
 // import NumberBaseball from './Components/NumberBaseball';
-
+// import '../package.json';
 
 export default function App() {
+  // console.log("url111 : ",process.env.PUBLIC_URL);
+  // <Router basename={process.evn.PUBLIC_URL}>
   return (
-    // <Router basename={process.evn.PUBLIC_URL}>
-    <Router>
+    <>
+    {/* <h1>Starting Pages~!!!!</h1> */}
+    <Router basename='/ReactLearn'>
+      {/* {console.log("url2",process.env.PUBLIC_URL)} */}
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/Dictionary' element={<Dictionary/>} />
         <Route path='/Community/*' element={<Community/>} />
         <Route path='/Games/*' element={<Games/>} />
+        {/* <Route path='/yjh984.github.io/ReactLearn' element={<Home/>}/> */}
+        {/* <Route path='/ReactLearn' element={<Home/>}/>         */}
         {/* <Route path='/Games/NumberBaseball' element={<NumberBaseball/>} /> */}
         {/* <Route path='/Community/1' element='xxx' /> */}
         {/* <Route path='*' element='Not Found...' /> */}
       </Routes>
     </Router>
+    </>
   )
 }
