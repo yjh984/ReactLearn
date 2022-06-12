@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.6aee28e0.chunk.css",
-  "main.js": "/static/js/main.deb0a91a.chunk.js",
-  "main.js.map": "/static/js/main.deb0a91a.chunk.js.map",
-  "static/js/1.b9d74096.chunk.js": "/static/js/1.b9d74096.chunk.js",
-  "static/js/1.b9d74096.chunk.js.map": "/static/js/1.b9d74096.chunk.js.map",
-  "static/js/2.2681e379.chunk.js": "/static/js/2.2681e379.chunk.js",
-  "static/js/2.2681e379.chunk.js.map": "/static/js/2.2681e379.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.ed53f3e0.js",
-  "runtime~main.js.map": "/static/js/runtime~main.ed53f3e0.js.map",
-  "static/css/main.6aee28e0.chunk.css.map": "/static/css/main.6aee28e0.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.70a62772b56ca7d4dd221be1b2571b68.js": "/precache-manifest.70a62772b56ca7d4dd221be1b2571b68.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ReactLearn/static/css/main.6aee28e0.chunk.css",
+  "main.js": "/ReactLearn/static/js/main.deb0a91a.chunk.js",
+  "main.js.map": "/ReactLearn/static/js/main.deb0a91a.chunk.js.map",
+  "static/js/1.b9d74096.chunk.js": "/ReactLearn/static/js/1.b9d74096.chunk.js",
+  "static/js/1.b9d74096.chunk.js.map": "/ReactLearn/static/js/1.b9d74096.chunk.js.map",
+  "static/js/2.906c7c84.chunk.js": "/ReactLearn/static/js/2.906c7c84.chunk.js",
+  "static/js/2.906c7c84.chunk.js.map": "/ReactLearn/static/js/2.906c7c84.chunk.js.map",
+  "runtime~main.js": "/ReactLearn/static/js/runtime~main.10b3349b.js",
+  "runtime~main.js.map": "/ReactLearn/static/js/runtime~main.10b3349b.js.map",
+  "static/css/main.6aee28e0.chunk.css.map": "/ReactLearn/static/css/main.6aee28e0.chunk.css.map",
+  "index.html": "/ReactLearn/index.html",
+  "precache-manifest.db101c6dace7ae96687f61102a6a6876.js": "/ReactLearn/precache-manifest.db101c6dace7ae96687f61102a6a6876.js",
+  "service-worker.js": "/ReactLearn/service-worker.js"
 }
