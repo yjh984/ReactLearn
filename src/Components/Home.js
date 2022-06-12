@@ -8,7 +8,7 @@ export default function Home(){
       <ul>
         <li><NavLink to='/Dictionary'>Dictionary</NavLink></li>
         <li><NavLink to='/Community'>Community</NavLink></li>
-        
+        <li><NavLink to='/Games'>Games</NavLink></li>
       </ul>
     </>
   )

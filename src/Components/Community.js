@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, NavLink, useParams } from "react-router-dom";
 import './Community.css';
 
-let lists = [
+const lists = [
     {id:1, title:'HTML', desc:'HTML is ...'},
     {id:2, title:'CSS', desc:'CSS is ...'},
     {id:3, title:'React', desc:'React is ...'}
